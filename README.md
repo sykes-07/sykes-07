@@ -28,7 +28,7 @@
     <img align="center" alt="streamlit" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"   >
      <img align="center" alt="swagger" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"   >
      <img align="center" alt="vscode" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"   >
-     <img align="center" alt="vscode" height="60" width="60"  src= "https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg"
+     <img align="center" alt="vscode" height="60" width="60"  src= "https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg">
 </div>
 
 ##
